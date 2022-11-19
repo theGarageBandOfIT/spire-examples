@@ -1,0 +1,7 @@
+image:
+  # This image is built upon the following Dockerfile: .gitpod.Dockerfile
+  gitpod/workspace-full
+
+  # You can dynamically build the image when you create a new GitPod workspace with the following lines
+  # file: .gitpod.Dockerfile
+
